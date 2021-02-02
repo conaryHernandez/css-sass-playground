@@ -1,0 +1,24 @@
+{
+  "name": "css-sass-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile:sass": "node-sass  sass/main.scss css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/conaryHernandez/css-sass-playground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/conaryHernandez/css-sass-playground/issues"
+  },
+  "homepage": "https://github.com/conaryHernandez/css-sass-playground#readme",
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
